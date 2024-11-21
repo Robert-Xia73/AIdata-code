@@ -1,0 +1,15 @@
+Origin Airport: Alpha Code                                                       OAC
+Origin Airport: Unique Numeric Code                                     OAUNC
+Origin Airport: World Area Code                                             OAWAC
+Origin Airport: City Name                                                         OACN 
+Destination Airport: Alpha Code                                              DAC
+Destination Airport: Numeric Code                                         DAUNC
+Destination Airport: World Area Code                                    DAWAC 
+Destination Airport: City Name                                                DACN
+Carrier: Alpha Code                                                                    CAC
+Carrier: Entity Code                                                                    CEC
+Official OAI Group Code                                                            OOGC
+Service Class                                                                                SC
+Passengers Enplaned                                                                 PE
+Freight Enplaned                                                                         FE
+Mail Enplaned                                                                             ME
